@@ -2,7 +2,7 @@ Steps
 1. Download Source Code and Unzip[Extract here] the Zip file on your local server. 
 2. Put this folder inside "c:/xampp/htdocs/" or "c:/wampp/www/" . 
 3. Database Configuration Open phpmyadmin Create Database named 'epl'. Import crud.sql from `db` folder.
-4. Open Your browser put inside "http://localhost/epl/index.php" and hit enter
+4. Open Your browser put inside "http://localhost/Simple-English-Premier-League-CRUD-main/index.php" and hit enter
 
 5. Enjoy Thanks.
 
